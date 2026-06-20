@@ -1,0 +1,5 @@
+# Add one tweet ID per line (numbers only).
+# You can paste IDs from URLs like https://x.com/user/status/1234567890
+# Lines starting with # are ignored.
+
+1519480761749016577

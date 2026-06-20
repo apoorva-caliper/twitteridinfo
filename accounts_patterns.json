@@ -1,0 +1,61 @@
+{
+  "EpochAIResearch": {
+    "account_name": "Epoch AI",
+    "profile_url": "https://x.com/EpochAIResearch",
+    "min_likes_filter": 30,
+    "posts_scanned": 61,
+    "posts_matched": 50,
+    "patterns": {
+      "posts_fetched": 50,
+      "date_range": {
+        "newest": "2026-06-18T14:56:02+00:00",
+        "oldest": "2026-04-16T19:16:44+00:00"
+      },
+      "posting_cadence": {
+        "avg_days_between_posts": 1.28,
+        "median_days_between_posts": 0.88
+      },
+      "posting_by_weekday": {
+        "Friday": 11,
+        "Monday": 3,
+        "Thursday": 15,
+        "Tuesday": 14,
+        "Wednesday": 7
+      },
+      "posting_by_hour_utc": {
+        "0": 2,
+        "14": 1,
+        "15": 3,
+        "16": 6,
+        "17": 7,
+        "18": 7,
+        "19": 3,
+        "20": 10,
+        "21": 4,
+        "22": 4,
+        "23": 3
+      },
+      "engagement_averages": {
+        "likes": 334.58,
+        "reposts": 41.46,
+        "comments": 12.62
+      },
+      "content": {
+        "avg_char_length": 256.26,
+        "posts_with_media": 46
+      }
+    }
+  },
+  "arizeai": {
+    "error": "status: 429, message: \"Rate limit exceeded\n\""
+  },
+  "PatronusAI": {
+    "error": "status: 429, message: \"Rate limit exceeded\n\""
+  },
+  "ArtificialAnlys": {
+    "error": "status: 429, message: \"Rate limit exceeded\n\""
+  },
+  "ValsAI": {
+    "error": "status: 429, message: \"Rate limit exceeded\n\""
+  }
+}

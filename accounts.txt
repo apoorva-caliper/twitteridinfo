@@ -1,0 +1,8 @@
+# One X/Twitter account per line (handle or profile URL).
+# Lines starting with # are ignored.
+
+https://x.com/EpochAIResearch
+https://x.com/arizeai
+https://x.com/PatronusAI
+https://x.com/ArtificialAnlys
+https://x.com/ValsAI
